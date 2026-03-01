@@ -1,0 +1,2 @@
+# amdhack
+shopping assistant
